@@ -1,5 +1,5 @@
 {
   "link":"https://gapps777.com/?s=35&ref=wp_w36520p290_n1n&url&popupAnchor=popup-reg",
-  "browser":false,
+  "browser":true,
   "percent":true
 }
